@@ -1,6 +1,10 @@
-Install Xampp if not already installed. Can be downloaded from https://www.apachefriends.org/download.html
-Place the repository in htdocs folder of xampp
-Go to Xampp control panel and start apache and MySql.
-Create a database and name it bookstore in MySql.
-Import the database bookstore.sql file in MySql.
-Open localhost/onlinebookstore/ in your browser.
+ติดตั้ง Xampp
+copy folder ไปยัง htdocs ใน xampp
+
+เปิด Xampp control panel แล้วกด start apache กับ MySql.
+
+สร้าง  database ชื่อ bookstore ใน phpMyadmin
+
+Import bookstore.sql มาจาก folder database ใน htdocs ที่พึึ่ง copy ไป
+
+เปิด localhost/Online-book-store ใน browser.
